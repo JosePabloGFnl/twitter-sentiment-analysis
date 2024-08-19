@@ -1,0 +1,3 @@
+pyspark
+torch
+boto3
